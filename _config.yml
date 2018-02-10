@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Alioune Badara Diop
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -73,12 +73,12 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: alioune badara diop
+  github: aliouneriddle
+  twitter: aliouneriddle
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: alioune badara diop
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
