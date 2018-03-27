@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Mon CV"
+  About Me: ""
   Autres titres: 
     - Test: "http://abd.com
     - Test1: "https://abd.com
